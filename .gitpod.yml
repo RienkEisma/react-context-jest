@@ -3,7 +3,7 @@ ports:
     onOpen: open-preview
 tasks:
   - init: yarn
-    command: yarn dev
+    command: yarn start
 github:
   prebuilds:
     pullRequestsFromForks: true
