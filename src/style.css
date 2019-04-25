@@ -1,0 +1,14 @@
+h1, p {
+  font-family: Lato;
+}
+body{
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+button{
+  margin: 5px !important;
+}
